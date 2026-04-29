@@ -83,124 +83,485 @@ Tujuan utama dari pembuatan website ini adalah:
 
 <br>
 
-Website publik dapat diakses oleh masyarakat umum untuk memperoleh informasi mengenai Mahakam Lampion Garden. Pengunjung dapat melihat informasi wisata, galeri, ulasan, lokasi, dan kontak pengelola.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        alt="image" src="https://github.com/user-attachments/assets/c61988e2-c430-4abb-9aa0-21104a44c3d6"
+        alt="Website Publik untuk Pengunjung"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+
+### Website Publik untuk Pengunjung
+
+Website publik dapat diakses oleh masyarakat umum untuk memperoleh informasi mengenai Mahakam Lampion Garden.  
+Melalui website ini, pengunjung dapat melihat informasi wisata, galeri, ulasan, lokasi, serta kontak pengelola.
+
+Website publik berfungsi sebagai media promosi sekaligus pusat informasi agar calon pengunjung dapat mengetahui gambaran wisata sebelum datang langsung ke lokasi.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>🏠 2. Halaman Beranda</summary>
 
 <br>
 
-Halaman beranda menampilkan identitas utama Mahakam Lampion Garden, deskripsi singkat, tombol navigasi, dan alamat lokasi wisata. Halaman ini dibuat sebagai tampilan pembuka yang menarik agar pengunjung tertarik menjelajahi website.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        alt="image" src="https://github.com/user-attachments/assets/c61988e2-c430-4abb-9aa0-21104a44c3d6"
+        alt="Halaman Beranda"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Halaman Beranda
+
+Halaman beranda merupakan halaman awal yang ditampilkan ketika pengunjung membuka website Mahakam Lampion Garden.
+
+Pada halaman ini ditampilkan identitas utama Mahakam Lampion Garden, deskripsi singkat, tombol navigasi, dan informasi alamat lokasi wisata.  
+Halaman ini dibuat sebagai tampilan pembuka yang menarik agar pengunjung tertarik untuk menjelajahi isi website.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>🏮 3. Halaman Wisata</summary>
 
 <br>
 
-Halaman wisata menampilkan spot atau area wisata yang tersedia di Mahakam Lampion Garden. Setiap spot dapat dilihat informasinya agar pengunjung mengetahui daya tarik wisata sebelum berkunjung.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-WISATA"
+        alt="Halaman Wisata"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Halaman Wisata
+
+Halaman wisata menampilkan spot atau area wisata yang tersedia di Mahakam Lampion Garden.
+
+Melalui halaman ini, pengunjung dapat mengetahui berbagai daya tarik wisata yang ada sebelum berkunjung.  
+Setiap informasi wisata ditampilkan secara ringkas agar mudah dibaca oleh pengguna.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>📌 4. Detail Wisata</summary>
 
 <br>
 
-Detail wisata berisi penjelasan lebih rinci mengenai spot wisata tertentu, seperti deskripsi, daya tarik, dan fasilitas pendukung yang tersedia.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-DETAIL-WISATA"
+        alt="Detail Wisata"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Detail Wisata
+
+Halaman detail wisata berisi penjelasan lebih rinci mengenai salah satu spot wisata yang ada di Mahakam Lampion Garden.
+
+Informasi yang ditampilkan dapat berupa deskripsi wisata, daya tarik, fasilitas pendukung, dan informasi lain yang membantu pengunjung memahami spot wisata tersebut secara lebih jelas.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>🖼️ 5. Galeri Wisata</summary>
 
 <br>
 
-Galeri wisata menampilkan kumpulan foto Mahakam Lampion Garden. Fitur ini membantu memperlihatkan suasana dan daya tarik visual tempat wisata kepada calon pengunjung.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-GALERI"
+        alt="Galeri Wisata"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Galeri Wisata
+
+Halaman galeri menampilkan kumpulan foto Mahakam Lampion Garden.
+
+Fitur ini membantu memperlihatkan suasana dan daya tarik visual tempat wisata kepada calon pengunjung.  
+Dengan adanya galeri, pengunjung dapat melihat gambaran suasana wisata sebelum datang langsung ke lokasi.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>⭐ 6. Ulasan Pengunjung</summary>
 
 <br>
 
-Pengunjung dapat melihat ulasan dari pengunjung lain dan mengisi ulasan baru. Ulasan ini menjadi sarana masukan sekaligus membantu calon pengunjung memperoleh gambaran mengenai pengalaman wisata.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-ULASAN"
+        alt="Ulasan Pengunjung"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Ulasan Pengunjung
+
+Halaman ulasan menampilkan penilaian dan komentar dari pengunjung Mahakam Lampion Garden.
+
+Pengunjung dapat melihat ulasan dari pengunjung lain dan juga mengisi ulasan baru.  
+Fitur ini menjadi sarana masukan bagi pengelola sekaligus membantu calon pengunjung memperoleh gambaran mengenai pengalaman wisata.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>📞 7. Kontak dan Reservasi WhatsApp</summary>
 
 <br>
 
-Website menyediakan tombol WhatsApp agar calon pengunjung dapat menghubungi pengelola secara langsung untuk reservasi acara atau bertanya mengenai informasi wisata.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-KONTAK-WHATSAPP"
+        alt="Kontak dan Reservasi WhatsApp"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Kontak dan Reservasi WhatsApp
+
+Website menyediakan tombol WhatsApp agar calon pengunjung dapat menghubungi pengelola secara langsung.
+
+Fitur ini dapat digunakan untuk bertanya mengenai informasi wisata, reservasi acara, atau kebutuhan komunikasi lainnya.  
+Reservasi diarahkan melalui WhatsApp agar proses konfirmasi dapat dilakukan secara langsung oleh pengelola.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>📍 8. Akses Google Maps</summary>
 
 <br>
 
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-GOOGLE-MAPS"
+        alt="Akses Google Maps"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Akses Google Maps
+
 Website menyediakan tombol menuju Google Maps agar pengunjung dapat melihat lokasi Mahakam Lampion Garden dengan lebih mudah.
 
+Fitur ini membantu calon pengunjung menemukan rute menuju lokasi wisata secara cepat dan praktis melalui aplikasi peta.
+
+   </td>
+  </tr>
+</table>
+
+</div>
+
 </details>
+
+---
 
 <details>
 <summary>🔐 9. Login Admin</summary>
 
 <br>
 
-Admin harus login terlebih dahulu sebelum dapat mengakses halaman pengelolaan website. Fitur ini digunakan untuk membatasi akses hanya kepada pengelola yang memiliki akun.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-LOGIN-ADMIN"
+        alt="Login Admin"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Login Admin
+
+Halaman login admin digunakan sebagai pintu masuk sebelum admin mengakses halaman pengelolaan website.
+
+Admin harus memasukkan akun yang valid agar dapat masuk ke dashboard admin.  
+Fitur ini digunakan untuk membatasi akses hanya kepada pengelola yang memiliki hak akses.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>📊 10. Dashboard Admin</summary>
 
 <br>
 
-Dashboard admin menampilkan halaman utama admin yang berisi ringkasan data konten website dan menu pengelolaan. Dashboard membantu admin mengakses fitur pengelolaan website secara lebih mudah.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-DASHBOARD-ADMIN"
+        alt="Dashboard Admin"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Dashboard Admin
+
+Dashboard admin merupakan halaman utama setelah admin berhasil login.
+
+Halaman ini menampilkan menu-menu pengelolaan website yang dapat digunakan admin untuk mengatur konten.  
+Melalui dashboard, admin dapat mengakses fitur kelola wisata, kelola galeri, kelola ulasan, dan pengaturan informasi.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>📝 11. Kelola Wisata</summary>
 
 <br>
 
-Admin dapat menambah, mengubah, dan menghapus data wisata yang tampil pada website publik.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-KELOLA-WISATA"
+        alt="Kelola Wisata"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Kelola Wisata
+
+Halaman kelola wisata digunakan admin untuk mengelola informasi wisata yang ditampilkan pada website publik.
+
+Admin dapat menambahkan data wisata baru, mengubah data yang sudah ada, dan menghapus data wisata yang tidak diperlukan.  
+Fitur ini membantu pengelola menjaga informasi wisata agar tetap rapi dan terbaru.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>🖼️ 12. Kelola Galeri</summary>
 
 <br>
 
-Admin dapat mengelola foto-foto wisata, seperti menambahkan dokumentasi baru, mengubah kategori, dan menghapus foto yang tidak diperlukan.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-KELOLA-GALERI"
+        alt="Kelola Galeri"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Kelola Galeri
+
+Halaman kelola galeri digunakan admin untuk mengatur foto-foto wisata yang tampil pada halaman galeri publik.
+
+Admin dapat menambahkan dokumentasi baru, mengubah data galeri, mengatur kategori, dan menghapus foto yang tidak diperlukan.  
+Dengan fitur ini, galeri website dapat terus diperbarui sesuai kebutuhan promosi wisata.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>⭐ 13. Kelola Ulasan</summary>
 
 <br>
 
-Admin dapat melihat dan memoderasi ulasan pengunjung. Ulasan yang tidak sesuai, tidak pantas, atau bersifat spam dapat dihapus oleh admin.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-KELOLA-ULASAN"
+        alt="Kelola Ulasan"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Kelola Ulasan
+
+Halaman kelola ulasan digunakan admin untuk melihat dan memoderasi ulasan yang dikirim oleh pengunjung.
+
+Admin dapat menghapus ulasan yang tidak sesuai, tidak pantas, atau bersifat spam.  
+Fitur ini membantu menjaga kualitas ulasan yang ditampilkan pada website publik.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
+
+---
 
 <details>
 <summary>⚙️ 14. Pengaturan Informasi</summary>
 
 <br>
 
-Admin dapat memperbarui informasi penting seperti harga tiket, jam operasional, alamat, kontak WhatsApp, dan informasi umum lainnya.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-PENGATURAN-INFORMASI"
+        alt="Pengaturan Informasi"
+        width="400"
+      />
+    </td>
+    <td width="55%" valign="top">
+
+### Pengaturan Informasi
+
+Halaman pengaturan informasi digunakan admin untuk memperbarui informasi penting yang ditampilkan pada website publik.
+
+Informasi yang dapat diperbarui meliputi harga tiket, jam operasional, alamat, kontak WhatsApp, dan informasi umum lainnya.  
+Fitur ini membantu pengelola memastikan bahwa informasi yang tampil di website selalu sesuai dengan kondisi terbaru.
+
+   </td>
+  </tr>
+</table>
+
+</div>
 
 </details>
 
