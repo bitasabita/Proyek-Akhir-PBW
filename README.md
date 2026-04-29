@@ -225,17 +225,18 @@ Informasi yang ditampilkan dapat berupa deskripsi wisata, daya tarik, fasilitas 
 
 <div align="center">
 
-<table>
+<<table>
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-GALERI"
+        src="https://github.com/user-attachments/assets/b38145e8-0803-44c5-8d03-1cc76c6b6248"
         alt="Galeri Wisata"
         width="400"
       />
     </td>
     <td width="55%" valign="top">
 
+    
 ### Galeri Wisata
 
 Halaman galeri menampilkan kumpulan foto Mahakam Lampion Garden.
@@ -264,7 +265,7 @@ Dengan adanya galeri, pengunjung dapat melihat gambaran suasana wisata sebelum d
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-ULASAN"
+        src="https://github.com/user-attachments/assets/07bf6104-53b2-4974-a37e-31777c2d405e"
         alt="Ulasan Pengunjung"
         width="400"
       />
@@ -299,12 +300,20 @@ Fitur ini menjadi sarana masukan bagi pengelola sekaligus membantu calon pengunj
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-KONTAK-WHATSAPP"
-        alt="Kontak dan Reservasi WhatsApp"
+        src="https://github.com/user-attachments/assets/28a911be-68bc-41c1-a398-f4cd566ce364"
+        alt="Kontak dan Reservasi WhatsApp 1"
+        width="400"
+      />
+      <br><br>
+      <img
+        src="https://github.com/user-attachments/assets/2c08d53b-d0bb-4db4-8b63-117a9772b73d"
+        alt="Kontak dan Reservasi WhatsApp 2"
         width="400"
       />
     </td>
     <td width="55%" valign="top">
+
+
 
 ### Kontak dan Reservasi WhatsApp
 
@@ -334,7 +343,7 @@ Reservasi diarahkan melalui WhatsApp agar proses konfirmasi dapat dilakukan seca
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-GOOGLE-MAPS"
+        src="https://github.com/user-attachments/assets/222403a5-e42e-4679-9a83-e1e5717f428e"
         alt="Akses Google Maps"
         width="400"
       />
