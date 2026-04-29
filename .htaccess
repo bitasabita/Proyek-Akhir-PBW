@@ -1,0 +1,38 @@
+# ====================================================
+# .htaccess - Mahakam Lampion Garden
+# ====================================================
+
+Options -Indexes
+
+# Charset
+AddDefaultCharset UTF-8
+
+# ── Security Headers ──────────────────────────────
+<IfModule mod_headers.c>
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-XSS-Protection "1; mode=block"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# ── Protect sensitive files ───────────────────────
+<FilesMatch "\.(sql|log|env|md)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Protect config directory
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^config/ - [F,L]
+    RewriteRule ^app/models/ - [F,L]
+    RewriteRule ^app/controllers/ - [F,L]
+</IfModule>
+
+# ── PHP Settings ─────────────────────────────────
+<IfModule mod_php.c>
+    php_flag display_errors Off
+    php_value upload_max_filesize 5M
+    php_value post_max_size 10M
+    php_value max_execution_time 60
+</IfModule>
