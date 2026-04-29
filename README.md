@@ -282,30 +282,7 @@ Admin dapat melakukan:
 
 ---
 
-# 🧱 Struktur Folder Website
 
-<details>
-<summary>📁 Klik untuk melihat struktur folder website</summary>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://github.com/user-attachments/assets/GANTI-LINK-FOTO-STRUKTUR-FOLDER"
-  alt="Struktur Folder Website Mahakam Lampion Garden"
-  width="700"
-/>
-
-</div>
-
-<br>
-
-> Penjelasan struktur folder akan ditambahkan setelah gambar struktur folder project tersedia.
-
-</details>
-
----
 
 
 # 📲 Cara Menggunakan Website
