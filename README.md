@@ -160,7 +160,7 @@ Halaman ini dibuat sebagai tampilan pembuka yang menarik agar pengunjung tertari
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-WISATA"
+        src="https://github.com/user-attachments/assets/21f3c9c7-fc4a-4c20-96f2-4ebb16838c41"
         alt="Halaman Wisata"
         width="400"
       />
@@ -195,12 +195,13 @@ Setiap informasi wisata ditampilkan secara ringkas agar mudah dibaca oleh penggu
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-DETAIL-WISATA"
+        src="https://github.com/user-attachments/assets/ede9e6d0-1953-4342-9012-af6b38bc976b"
         alt="Detail Wisata"
         width="400"
       />
     </td>
     <td width="55%" valign="top">
+
 
 ### Detail Wisata
 
@@ -377,13 +378,13 @@ Fitur ini membantu calon pengunjung menemukan rute menuju lokasi wisata secara c
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-LOGIN-ADMIN"
+        src="https://github.com/user-attachments/assets/6d625012-5239-4bca-90a6-561b61ee38af"
         alt="Login Admin"
         width="400"
       />
     </td>
     <td width="55%" valign="top">
-
+      
 ### Login Admin
 
 Halaman login admin digunakan sebagai pintu masuk sebelum admin mengakses halaman pengelolaan website.
@@ -412,7 +413,7 @@ Fitur ini digunakan untuk membatasi akses hanya kepada pengelola yang memiliki h
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-DASHBOARD-ADMIN"
+        src="https://github.com/user-attachments/assets/b143dc8e-ecf0-4fe4-a699-2b82f0f1efca"
         alt="Dashboard Admin"
         width="400"
       />
@@ -447,13 +448,13 @@ Melalui dashboard, admin dapat mengakses fitur kelola wisata, kelola galeri, kel
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-KELOLA-WISATA"
+        src="https://github.com/user-attachments/assets/e350515f-b7a7-414a-9beb-a969c0d3ada3"
         alt="Kelola Wisata"
         width="400"
       />
     </td>
     <td width="55%" valign="top">
-
+      
 ### Kelola Wisata
 
 Halaman kelola wisata digunakan admin untuk mengelola informasi wisata yang ditampilkan pada website publik.
@@ -482,7 +483,7 @@ Fitur ini membantu pengelola menjaga informasi wisata agar tetap rapi dan terbar
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-KELOLA-GALERI"
+        src="https://github.com/user-attachments/assets/4f170ae3-939b-4bbc-9990-850f2018c380"
         alt="Kelola Galeri"
         width="400"
       />
@@ -517,7 +518,7 @@ Dengan fitur ini, galeri website dapat terus diperbarui sesuai kebutuhan promosi
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-KELOLA-ULASAN"
+        src="https://github.com/user-attachments/assets/b9952fb2-284e-4714-8a02-2a6b4b1e5c52"
         alt="Kelola Ulasan"
         width="400"
       />
@@ -542,7 +543,7 @@ Fitur ini membantu menjaga kualitas ulasan yang ditampilkan pada website publik.
 ---
 
 <details>
-<summary>⚙️ 14. Pengaturan Informasi</summary>
+<summary>➕ 14. Tambah Galeri</summary>
 
 <br>
 
@@ -552,21 +553,22 @@ Fitur ini membantu menjaga kualitas ulasan yang ditampilkan pada website publik.
   <tr>
     <td width="45%" align="center" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/GANTI-LINK-GAMBAR-PENGATURAN-INFORMASI"
-        alt="Pengaturan Informasi"
+        src="https://github.com/user-attachments/assets/76ec9fd7-5e15-49e9-89cb-5fe3eff6698d"
+        alt="Tambah Galeri"
         width="400"
       />
     </td>
     <td width="55%" valign="top">
 
-### Pengaturan Informasi
+### Tambah Galeri
 
-Halaman pengaturan informasi digunakan admin untuk memperbarui informasi penting yang ditampilkan pada website publik.
+Halaman tambah galeri digunakan admin untuk menambahkan foto baru ke dalam galeri website Mahakam Lampion Garden.
 
-Informasi yang dapat diperbarui meliputi harga tiket, jam operasional, alamat, kontak WhatsApp, dan informasi umum lainnya.  
-Fitur ini membantu pengelola memastikan bahwa informasi yang tampil di website selalu sesuai dengan kondisi terbaru.
+Pada halaman ini, admin dapat mengisi judul foto, memilih kategori galeri, menentukan status foto, serta mengunggah file gambar. Foto yang ditambahkan nantinya akan tersimpan sebagai data galeri dan dapat ditampilkan pada halaman galeri website publik apabila statusnya aktif.
 
-   </td>
+Fitur ini membantu pengelola memperbarui dokumentasi visual Mahakam Lampion Garden agar galeri website tetap menarik dan sesuai dengan kondisi terbaru.
+
+    
   </tr>
 </table>
 
